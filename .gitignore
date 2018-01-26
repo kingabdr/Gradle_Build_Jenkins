@@ -8,7 +8,7 @@
 /captures
 .externalNativeBuild
 .gradle/
-/app/build/intermediates/*
+/app/build/*
 bin/
 
 # Built application files
